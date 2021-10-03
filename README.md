@@ -16,6 +16,6 @@ Naša naloga je bila, da sprogramiramo mikroprocesor po v naprej določenih navo
 
 Ugotovitve:
 
-Zaradi stiske s časom smo vajo vseeno oddali, vendar v pomankljivi obliki. V nalogi je naša koda, ki ni spisana za vse tipke, saj smo se ustavili že pri 1. in kasneje poskušali še na drugih vendar poskusi so bili neuspešni. Dodali smo tudi izrezano sliko naše periferije vezja. Menimo, da bi za 5. Vajo morali imeti še dodatno uro. Ker preverili smo vse možnosti, vendar bi se lahko še malo bol posvetili tej vaji in povsevrjetnosti tudi rešili z dodatnim časom.
+Zaradi stiske s časom smo vajo vseeno oddali, vendar v pomankljivi obliki. V nalogi je naša koda, ki ni spisana za vse tipke, saj smo se ustavili že pri 1. in kasneje poskušali še na drugih vendar poskusi so bili neuspešni. Dodali smo tudi izrezano sliko naše periferije vezja. Menimo, da bi za 5. Vajo morali imeti še dodatno uro. Ker preverili smo vse možnosti, vendar bi se lahko še malo bol posvetili tej vaji in povsejvrjetnosti tudi rešili z dodatnim časom.
 
 
